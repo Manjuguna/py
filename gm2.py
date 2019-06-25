@@ -1,5 +1,5 @@
-a=integer(input())
-if(a/2=0):
+a=integer(input("enter a number":))
+if(a%2=0):
     print("Even")
 else:
     print("Odd")
